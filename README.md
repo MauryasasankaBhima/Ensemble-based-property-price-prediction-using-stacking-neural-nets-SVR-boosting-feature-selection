@@ -50,7 +50,7 @@ To create a robust, high-performing property valuation model by:
 
 ##  Sample Results
 
-_(Replace with actual values from notebook)_
+
 
 | Model                | RMSE   | R² Score |
 |----------------------|--------|----------|
